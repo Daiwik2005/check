@@ -1,0 +1,4 @@
+InvoiceID,Date,Amount,Supplier,DueDate
+INV001,2024-06-01,1200.00,Supplier A,2024-06-15
+INV002,2024-06-10,850.00,Supplier B,2024-06-25
+INV003,2024-06-15,460.00,Supplier C,2024-07-01
